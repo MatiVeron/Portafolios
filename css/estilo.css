@@ -673,7 +673,8 @@ footer .pie .row .box h1 i{
     
     .video{
 
-        display: none;
+        width: 100%;
+        height: 100%;
         
     }
 
